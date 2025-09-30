@@ -1,0 +1,381 @@
+[
+  {
+    "title": "前言",
+    "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/index.html",
+    "level": "0",
+    "path": "index.html",
+    "children": []
+  },
+  {
+    "title": "介绍",
+    "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/introduction/README.html",
+    "level": "1",
+    "path": "introduction/README.html",
+    "children": []
+  },
+  {
+    "title": "UI组件库",
+    "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/README.html",
+    "level": "2",
+    "path": "list/README.html",
+    "children": [
+      {
+        "title": "1.\n                        \n                         常规组件",
+        "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/common.html",
+        "level": "2.1",
+        "path": "list/common.html",
+        "children": [
+          {
+            "title": "1.1.\n                        \n                         单行",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/text.html",
+            "level": "2.1.1",
+            "path": "list/text.html",
+            "children": []
+          },
+          {
+            "title": "1.2.\n                        \n                         多行",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/textarea.html",
+            "level": "2.1.2",
+            "path": "list/textarea.html",
+            "children": []
+          },
+          {
+            "title": "1.3.\n                        \n                         数值",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/number.html",
+            "level": "2.1.3",
+            "path": "list/number.html",
+            "children": []
+          },
+          {
+            "title": "1.4.\n                        \n                         货币",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/currency.html",
+            "level": "2.1.4",
+            "path": "list/currency.html",
+            "children": []
+          },
+          {
+            "title": "1.5.\n                        \n                         列表",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/combobox.html",
+            "level": "2.1.5",
+            "path": "list/combobox.html",
+            "children": []
+          },
+          {
+            "title": "1.6.\n                        \n                         单选组",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/radiogroups.html",
+            "level": "2.1.6",
+            "path": "list/radiogroups.html",
+            "children": []
+          },
+          {
+            "title": "1.7.\n                        \n                         复选组",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/checkboxgroups.html",
+            "level": "2.1.7",
+            "path": "list/checkboxgroups.html",
+            "children": []
+          },
+          {
+            "title": "1.8.\n                        \n                         附件",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/file.html",
+            "level": "2.1.8",
+            "path": "list/file.html",
+            "children": []
+          },
+          {
+            "title": "1.9.\n                        \n                         日期",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/date.html",
+            "level": "2.1.9",
+            "path": "list/date.html",
+            "children": []
+          },
+          {
+            "title": "1.10.\n                        \n                         时间",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/time.html",
+            "level": "2.1.10",
+            "path": "list/time.html",
+            "children": []
+          },
+          {
+            "title": "1.11.\n                        \n                         日期时间",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/datetime.html",
+            "level": "2.1.11",
+            "path": "list/datetime.html",
+            "children": []
+          },
+          {
+            "title": "1.12.\n                        \n                         HTML排版",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/htmleditor.html",
+            "level": "2.1.12",
+            "path": "list/htmleditor.html",
+            "children": []
+          },
+          {
+            "title": "1.13.\n                        \n                         滑杆",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/slider.html",
+            "level": "2.1.13",
+            "path": "list/slider.html",
+            "children": []
+          },
+          {
+            "title": "1.14.\n                        \n                         按钮",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/button.html",
+            "level": "2.1.14",
+            "path": "list/button.html",
+            "children": []
+          },
+          {
+            "title": "1.15.\n                        \n                         星级打分",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/rating.html",
+            "level": "2.1.15",
+            "path": "list/rating.html",
+            "children": []
+          },
+          {
+            "title": "1.16.\n                        \n                         开关",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/switchbutton.html",
+            "level": "2.1.16",
+            "path": "list/switchbutton.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.\n                        \n                         字典组件",
+        "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/dict.html",
+        "level": "2.2",
+        "path": "list/dict.html",
+        "children": [
+          {
+            "title": "2.1.\n                        \n                         网格数据字典",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/griddictionary.html",
+            "level": "2.2.1",
+            "path": "list/griddictionary.html",
+            "children": []
+          },
+          {
+            "title": "2.2.\n                        \n                         平板数据字典",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/flatdictionary.html",
+            "level": "2.2.2",
+            "path": "list/flatdictionary.html",
+            "children": []
+          },
+          {
+            "title": "2.3.\n                        \n                         树形数据字典",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/treedictionary.html",
+            "level": "2.2.3",
+            "path": "list/treedictionary.html",
+            "children": []
+          },
+          {
+            "title": "2.4.\n                        \n                         地址簿",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/address.html",
+            "level": "2.2.4",
+            "path": "list/address.html",
+            "children": []
+          },
+          {
+            "title": "2.5.\n                        \n                         群组",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/group.html",
+            "level": "2.2.5",
+            "path": "list/group.html",
+            "children": []
+          },
+          {
+            "title": "2.6.\n                        \n                         省市县",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/addr.html",
+            "level": "2.2.6",
+            "path": "list/addr.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "3.\n                        \n                         流程组件",
+        "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/process.html",
+        "level": "2.3",
+        "path": "list/process.html",
+        "children": [
+          {
+            "title": "3.1.\n                        \n                         关联任务",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/relatedprocesstask.html",
+            "level": "2.3.1",
+            "path": "list/relatedprocesstask.html",
+            "children": []
+          },
+          {
+            "title": "3.2.\n                        \n                         流程范围",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/fw.html",
+            "level": "2.3.2",
+            "path": "list/fw.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "4.\n                        \n                         高级组件",
+        "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/adv.html",
+        "level": "2.4",
+        "path": "list/adv.html",
+        "children": [
+          {
+            "title": "4.1.\n                        \n                         字段子表",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/fieldtable.html",
+            "level": "2.4.1",
+            "path": "list/fieldtable.html",
+            "children": []
+          },
+          {
+            "title": "4.2.\n                        \n                         图片标识",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/logophoto.html",
+            "level": "2.4.2",
+            "path": "list/logophoto.html",
+            "children": []
+          },
+          {
+            "title": "4.3.\n                        \n                         自定义权限",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/boac.html",
+            "level": "2.4.3",
+            "path": "list/boac.html",
+            "children": []
+          },
+          {
+            "title": "4.4.\n                        \n                         条形/二维码",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/xcode.html",
+            "level": "2.4.4",
+            "path": "list/xcode.html",
+            "children": []
+          },
+          {
+            "title": "4.5.\n                        \n                         金格iWebOffice",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/iweboffice.html",
+            "level": "2.4.5",
+            "path": "list/iweboffice.html",
+            "children": []
+          },
+          {
+            "title": "4.6.\n                        \n                         电子印章",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/awscachet.html",
+            "level": "2.4.6",
+            "path": "list/awscachet.html",
+            "children": []
+          },
+          {
+            "title": "4.7.\n                        \n                         金格iWebPDF",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/iwebpdf.html",
+            "level": "2.4.7",
+            "path": "list/iwebpdf.html",
+            "children": []
+          },
+          {
+            "title": "4.8.\n                        \n                         知识门户",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/knwlportal.html",
+            "level": "2.4.8",
+            "path": "list/knwlportal.html",
+            "children": []
+          },
+          {
+            "title": "4.9.\n                        \n                         信息流",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/stream.html",
+            "level": "2.4.9",
+            "path": "list/stream.html",
+            "children": []
+          },
+          {
+            "title": "4.10.\n                        \n                         地图选点",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/map.html",
+            "level": "2.4.10",
+            "path": "list/map.html",
+            "children": []
+          },
+          {
+            "title": "4.11.\n                        \n                         发票夹",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/invoice.html",
+            "level": "2.4.11",
+            "path": "list/invoice.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "5.\n                        \n                         移动组件",
+        "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/mobile.html",
+        "level": "2.5",
+        "path": "list/mobile.html",
+        "children": [
+          {
+            "title": "5.1.\n                        \n                         定位",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/mobilelocation.html",
+            "level": "2.5.1",
+            "path": "list/mobilelocation.html",
+            "children": []
+          },
+          {
+            "title": "5.2.\n                        \n                         证件识别",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/list/certificates.html",
+            "level": "2.5.2",
+            "path": "list/certificates.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "附录",
+    "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/appendix/README.html",
+    "level": "3",
+    "path": "appendix/README.html",
+    "children": [
+      {
+        "title": "1.\n                        \n                         网格数据字典模型",
+        "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/appendix/dgriddictionary.html",
+        "level": "3.1",
+        "path": "appendix/dgriddictionary.html",
+        "children": [
+          {
+            "title": "1.1.\n                        \n                         新建",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/appendix/create.html",
+            "level": "3.1.1",
+            "path": "appendix/create.html",
+            "children": []
+          },
+          {
+            "title": "1.2.\n                        \n                         基本信息",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/appendix/jbxx.html",
+            "level": "3.1.2",
+            "path": "appendix/jbxx.html",
+            "children": []
+          },
+          {
+            "title": "1.3.\n                        \n                         关系映射",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/appendix/gxys.html",
+            "level": "3.1.3",
+            "path": "appendix/gxys.html",
+            "children": []
+          },
+          {
+            "title": "1.4.\n                        \n                         附录",
+            "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/appendix/eg.html",
+            "level": "3.1.4",
+            "path": "appendix/eg.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2.\n                        \n                         开发新的UI组件",
+        "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/appendix/new_ui.html",
+        "level": "3.2",
+        "path": "appendix/new_ui.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "文档历史记录",
+    "url": "https://docs.awspaas.com/reference-guide/aws-paas-ui-reference-guide/whats_new/README.html",
+    "level": "4",
+    "path": "whats_new/README.html",
+    "children": []
+  }
+]
