@@ -30,3 +30,17 @@ https://docs.awspaas.com/api/aws-api-javadoc/
 wget --continue --no-clobber --recursive [上述其他选项] https://docs.awspaas.com/api/aws-api-javadoc/
 
 ```
+
+# aws_javadoc文档to llms.txt
+```bash
+> python3 -m venv venv
+> source ./.venv/bin/activate
+> python3 awsavedoc.py
+```
+
+# 文档下载工具
+```bash
+> python3 -m venv venv
+> source ./.venv/bin/activate
+> python3 paws_doc_download.py
+```
